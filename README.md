@@ -277,8 +277,8 @@ C:\Users\user>Rotor-Cuda.exe -g --gpui 0 --gpux 256,256 -m xpoint --coin BTC --r
   [00:02:49] [C99473A60C] [F: 0] [00:02:04] [C: 57.543945 %] [GPU: 1.87 Gk/s] [T: 316,351,184,896]
   =================================================================================
   PubAddress: 1EeAxcprB2PpCnr34VfZdFrkUWuxyiNEFv
-  Priv (WIF): p2pkh:KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9aFJuCJDo5F6Jm7
-  Priv (HEX): E9AE4933D6
+  Priv (WIF): p2pkh:[REDACTED: WIF private key]
+  Priv (HEX): [REDACTED: private key]
   PubK (HEX): 03A2EFA402FD5268400C77C20E574BA86409EDEDEE7C4020E4B9F0EDBEE53DE0D4
   =================================================================================
   [00:02:50] [CA042FDBBD] [F: 1] [00:02:03] [C: 57.885742 %] [GPU: 1.87 Gk/s] [T: 318,230,233,088]
@@ -327,8 +327,8 @@ C:\Users\user>Rotor-Cuda.exe -g --gpui 0 --gpux 256,256 -m xpoint --coin BTC --r
   [00:00:56] [C54475752E] [F: 0] [00:02:03] [C: 57.714844 %] [GPU: 1.87 Gk/s] [T: 317,290,708,992]  ]
   =================================================================================
   PubAddress: 1EeAxcprB2PpCnr34VfZdFrkUWuxyiNEFv
-  Priv (WIF): p2pkh:KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9aFJuCJDo5F6Jm7
-  Priv (HEX): E9AE4933D6
+  Priv (WIF): p2pkh:[REDACTED: WIF private key]
+  Priv (HEX): [REDACTED: private key]
   PubK (HEX): 03A2EFA402FD5268400C77C20E574BA86409EDEDEE7C4020E4B9F0EDBEE53DE0D4
   =================================================================================
   [00:00:57] [C5B436553B] [F: 1] [00:02:02] [C: 58.056641 %] [GPU: 1.87 Gk/s] [T: 319,169,757,184]
@@ -434,3 +434,11 @@ C:\Users\user>Rotor-Cuda.exe -g --gpui 0 --gpux 256,256 -m address --coin eth --
 
 ## __Disclaimer__
 ALL THE CODES, PROGRAM AND INFORMATION ARE FOR EDUCATIONAL PURPOSES ONLY. USE IT AT YOUR OWN RISK. THE DEVELOPER WILL NOT BE RESPONSIBLE FOR ANY LOSS, DAMAGE OR CLAIM ARISING FROM USING THIS PROGRAM.
+
+## Support this project
+
+<p align="center">
+  <a href="https://buymeacoffee.com/ufodia">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="60">
+  </a>
+</p>
